@@ -1,2 +1,2 @@
 diasdasemana = 7
-print(diasdasemana)
+print(7,diasdasemana)

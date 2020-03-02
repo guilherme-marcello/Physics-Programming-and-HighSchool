@@ -1,4 +1,4 @@
-nome = "guilherme"
-apelido = '''mARCELLO'''
+nome = "Guilherme"
+apelido = '''Marcello'''
 
 print(nome + """ """ + apelido)
